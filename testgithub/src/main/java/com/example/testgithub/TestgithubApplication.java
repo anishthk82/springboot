@@ -8,7 +8,7 @@ public class TestgithubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestgithubApplication.class, args);
-		System.out.println("Hello World...");
+		System.out.println("Hello World....for git push");
 	}
 
 }
